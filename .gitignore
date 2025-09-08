@@ -1,0 +1,10 @@
+# Gradle & cache files
+.gradle/
+caches/
+build/
+*.lock
+
+# Android Studio local files
+local.properties
+.idea/
+*.iml
